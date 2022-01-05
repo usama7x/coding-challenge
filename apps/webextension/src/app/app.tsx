@@ -1,11 +1,11 @@
 import styles from './app.module.css';
-import NxWelcome from './nx-welcome';
+// import { Sidebar } from '@coding-challenge/ui';
 
 export function App() {
   return (
     <>
-      <NxWelcome title="webextension" />
-      <div />
+      {/* Replace the below div with your sidebar component from @coding-challenge/ui! */}
+      <div>Replace Me!</div>
     </>
   );
 }
