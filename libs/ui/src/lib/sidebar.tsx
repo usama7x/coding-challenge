@@ -1,4 +1,4 @@
-import './ui.module.css';
+import './sidebar.module.css';
 
 /* eslint-disable-next-line */
 export interface SidebarProps {}
