@@ -966,5 +966,7 @@ module.exports = {
     'active',
     'disabled',
   ],
-  plugins: [],
+  plugins: [
+    require('tw-elements/dist/plugin')
+  ],
 };
